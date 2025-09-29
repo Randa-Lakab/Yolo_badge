@@ -1,6 +1,6 @@
 # Currency Converter: Algerian Dinar (DZD) -> US Dollar (USD)
 
-print("==== Currency Converter DZD -> USD ====")
+print("== Currency Converter DZD -> USD ==")
 
 # Exchange rate (example: 1 USD = 220 DZD)
 exchange_rate = 220  
